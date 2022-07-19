@@ -1,0 +1,26 @@
+section{
+    background-color: rgb(241, 237, 237);
+    margin:10px;
+    padding:15px; 
+}
+section .container {
+    background-color: rgb(225, 222, 222);
+    margin:10px;
+    padding:15px; 
+    font-family:Arial ; 
+    color: #3d556e;
+}
+
+legend {
+    text-align: center;
+    color: #3b6b9f;
+    font-family:Arial  ;
+
+  }
+ 
+ 
+   
+    /*  body{#6b7e91;}*/
+    
+   
+  
